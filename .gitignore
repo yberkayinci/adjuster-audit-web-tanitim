@@ -1,0 +1,4 @@
+# Yalnızca site/ yayımlanır; iç belgeler repoya girmez
+/*
+!/site/
+!/.gitignore
